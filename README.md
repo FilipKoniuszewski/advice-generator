@@ -1,6 +1,6 @@
-# Advice Generator using React
+# Advice Generator from Frontend Mentor Challenge using React
 
-## Check your random advice
+## Check for your daily random advice
  https://filipkoniuszewski.github.io/advice-generator/
 
 
